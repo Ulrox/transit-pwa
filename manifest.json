@@ -1,0 +1,18 @@
+{
+  "name": "交通速搜 - 火車與公車客運即時查詢",
+  "short_name": "交通速搜",
+  "description": "即時火車時刻、通勤客運與公車站牌動態查詢",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
